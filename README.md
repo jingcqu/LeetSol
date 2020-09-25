@@ -1,7 +1,7 @@
 # LeetSol
 LeetCode solutions
 
-Inverting a binary tree
+Problem 1) Inverting a binary tree
 
 Greetings, 
 are you getting that annoying ad on Youtube that starts off with "you know what's the scariest thing in the world 
